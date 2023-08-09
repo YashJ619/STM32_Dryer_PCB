@@ -290,6 +290,9 @@
     (path "/d41e6e36-5192-47d0-b4ea-4d4ff4d050b3/74ac7c28-b991-4388-8a0a-7d6a9f1814fd"
       (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/b87b994f-2409-427d-a085-0bc64780a128/fc525b1b-cf25-451a-b0d1-fedf1742492c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d41e6e36-5192-47d0-b4ea-4d4ff4d050b3/670ad3e8-5870-422a-bf13-57ea632a164a"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
     )
@@ -612,7 +615,7 @@
       (reference "U20") (unit 1) (value "APE30024") (footprint "User_Relay:Relay_SPDT_28L_5W")
     )
     (path "/b87b994f-2409-427d-a085-0bc64780a128/090a6e67-ddee-4bbf-bb79-5b15a1728a3c"
-      (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_HC18-U_Vertical")
+      (reference "Y1") (unit 1) (value "8MHz") (footprint "Crystal:Crystal_HC18-U_Vertical")
     )
   )
 )
